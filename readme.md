@@ -1,7 +1,7 @@
 <h1 align="center">
  <img src="assets/images/logo.svg">
 </h1>
-<h1>
+<h1 align="center">
     <img src="assets/images/Teste.gif">
 </h1>
 
